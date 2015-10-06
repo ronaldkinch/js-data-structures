@@ -1,0 +1,23 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "Data Structures in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldkinch/js-data-structures.git"
+  },
+  "author": "Ronald Kinch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronaldkinch/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/ronaldkinch/js-data-structures#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
